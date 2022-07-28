@@ -1,0 +1,151 @@
+@media all and(max-width:1200px)
+{
+    .header_btn{
+        width: 40%;
+    }
+
+    
+}
+
+@media all and (max-width: 1150px) {
+
+  .header_title_left {
+    font-size: 60px;
+  }
+  .portfolio_item{
+    width: 30%;
+  }
+.portfolio_item>img{
+  width: 100%;
+}
+.info_block_title{
+  font-size: 50px;
+}
+.navbar_list, .footer_list{
+  width: 40%;
+}
+
+}
+
+    @media all and (max-width:1100px)
+     {
+      .header_img{
+        width: 100%;
+        height: 90%;
+    }
+    .header_btn{
+        width: 45%;
+    }
+    #vector_1{
+        left: -35px;
+    }
+    #vector_3{
+        left: -10px;
+ }
+ .infoblock_title{
+  font-size: 50px;
+ }
+}
+
+@media all and (max-width:1000px)
+{
+  .services_title_main{
+    font-size: 39px;
+  }
+  .header_title_left {
+    font-size: 49px;
+  }
+  .header_btn{
+    width: 50%;
+}
+.services_title{
+  font-size: 25px;
+}
+.infoblock_title{
+  font-size: 39px;
+}
+.portfolio_title{
+  font-size: 39px;
+}
+}
+
+@media all and (max-width:850px)
+{
+  .header_btn{
+    width: 50%;
+    font-size: 17px;
+  }
+ 
+  .footer_logo{
+    width: 112px;
+    height: 32px;
+}
+
+}
+@media all and (max-width: 800px) { 
+  .navbar_logo { 
+      width: 15%; 
+  } 
+
+} 
+
+@media all and (max-width: 800px) { 
+  .navbar_list, .navbar_input { 
+      display: none; 
+  } 
+
+  .navbar_btn-burger { 
+      display: block; 
+  } 
+  .header_img{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 700px) { 
+.header_desc_left{
+  font-size: 15px;
+}
+#vector_1, #vector_2, #vector_3, #vector_4 {
+  width: 10%;
+  height: 10%;
+} 
+#vector_3{
+  bottom:50px;
+}
+#vector_4{
+  bottom:90px;
+}
+  .header_img{
+    height: 100%;
+    width: 100%;
+  }
+  .header_btn{
+    width: 50%;
+    font-size: 14px;
+  }
+  .btn_icon{
+    width: 15%;  }
+    .infoblock_title{
+      font-size: 30px;
+    }
+    .infoblock_btn{
+      width: 30%;
+      font-size: 14px;
+    }
+    .footer_list, .footer_info{
+      font-size: 12px;
+    }
+    .header_title_left, .services_title_main{
+    font-size: 35px;
+    }
+}
+@media all and (max-width: 600px) { 
+.header{
+display: flex;
+flex-wrap: wrap; 
+}
+
+
+}
